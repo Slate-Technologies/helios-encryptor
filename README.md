@@ -1,2 +1,3 @@
-# helios-encryptor
-A caesar-cypher program built in Python
+# Helios Encryptor
+
+A caesar-cypher program built in Python.
